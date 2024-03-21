@@ -4,7 +4,7 @@ Questo progetto è un insieme di fogli Excel che utilizzo per i miei investiment
 
 ## Obbligazioni
 
-Nel folder `obbligazioni` trovate i fogli Excel per investire in obbligazioni.
+Nel folder `obbligazioni` trovate i fogli Excel per investire in obbligazioni. [Clicca qui](obbligazioni) per accedere.
 
 ### Titoli di Stato Italiani
 
