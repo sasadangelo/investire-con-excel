@@ -8,7 +8,7 @@ Nel folder `obbligazioni` trovate i fogli Excel per investire in obbligazioni.
 
 ### Titoli di Stato Italiani
 
-Nel folder `obbligazioni/tds` trovate i fogli Excel per investire in Titoli di Stato italiani.
+Nel folder `obbligazioni/tds` trovate i fogli Excel per investire in Titoli di Stato italiani. [Clicca qui](obbligazioni/tds) per accedere.
 
 #### Buoni Ordinari del Tesoro (BOT)
 
