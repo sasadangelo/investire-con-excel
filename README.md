@@ -1,6 +1,6 @@
 # Investire con Excel
 
-Questo progetto è un insieme di fogli Excel che utilizzo per i miei investimenti. Esso è costituito da una serie di fogli Excel organizzati i directory in base all'area di investimento.
+Questo progetto è un insieme di fogli Excel che utilizzo per i miei investimenti. Esso è costituito da una serie di fogli Excel organizzati i directory in base all'area di investimento. Per visualizzare i fogli suggerisco di [scaricare Libre Office](https://it.libreoffice.org/download/download/) che è un software libero e gratuito, equivalente a Microsoft Office, che tutti possono scaricare sul proprio computer.
 
 ## Obbligazioni
 
