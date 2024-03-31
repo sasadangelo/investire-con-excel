@@ -2,7 +2,7 @@
 
 ## Le origini
 
-Il foglio calcolatore-bot.ods è un file Libre Office che consente di calcolare, con estrema precisione, tutte le informazioni inerenti all'acquisto e vendita di BOT. Questo foglio è una versione semplificata dei [fogli dell'utente @Maino](https://digilander.libero.it/ventimaggio/Finanza/Pagina%20dei%20files.html) e [@giorgio1966](https://forum.finanzaonline.com/threads/foglio-excel-per-calcolo-rendimenti-btp-tasso-fisso.2019069/)
+Il foglio calcolatore-bot.ods è un file Libre Office che consente di calcolare, con estrema precisione, tutte le informazioni inerenti all'acquisto e vendita di BOT. Questo foglio è una versione semplificata dei [fogli dell'utente @Maino](https://digilander.libero.it/ventimaggio/Finanza/Pagina%20dei%20files.html) e [@fuma57](https://forum.finanzaonline.com/threads/foglio-di-calcolo-per-rendimenti-obbligazioni-a-tasso-fisso-e-stepup-btp-bot-e-corporate.2026003/)
  del [Forum Finanza Online](https://forum.finanzaonline.com/).
 
 ## Descrizione
