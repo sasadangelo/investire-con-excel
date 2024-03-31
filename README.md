@@ -19,4 +19,4 @@ Nel folder `obbligazioni/tds/bot` trovate i fogli Excel per investire in Buoni O
 Nel folder `obbligazioni/tds/btp` trovate i fogli Excel per investire in Buoni del Tesoro Pluriennali (BTP). [Clicca qui](obbligazioni/tds/btp) per accedere.
 
 **Attenzione!!!**
-Al momento esiste solo il foglio calcolatore-btp-ods che è in fase di lavorazione, quindi **NON DOVETE UTILIZZARLO**.
+Al momento esiste solo il foglio calcolatore-btp-tf.ods che è in fase di lavorazione, quindi **NON DOVETE UTILIZZARLO**.
