@@ -1,4 +1,4 @@
-# Foglio Excel per Invetimenti in BTP.
+# Foglio Excel per Investimenti in BTP.
 
 ## Le origini
 
