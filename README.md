@@ -22,3 +22,7 @@ Nel folder `obbligazioni/tds/btp` trovate i fogli Excel per investire in Buoni d
 
 **Attenzione!!!**
 Al momento, per i BTP, esiste solo il foglio **calcolatore-btp-tf.ods** che è in fase di lavorazione, quindi **NON DOVETE UTILIZZARLO**.
+
+## Dati Macroeconomici
+
+Nel folder `dati-macroeconomici` trovate i fogli Excel conteneti i dati macro economici. Questi sono dati fondamentali per comprendere come si muoveranno i mercati. [Clicca qui](dati-macroeconomici) per accedere.
